@@ -49,3 +49,37 @@ This refers to interactive components like forms, buttons, sliders, or search ba
 ---
 
 Each of these elements contributes to making the final design user-friendly, intuitive, and functional.
+
+## Types of Wireframes
+
+Wireframes can vary in level of detail depending on the stage of the design process. The two main types are:
+
+### 1. Low-Fidelity Wireframes
+
+These are basic sketches or outlines that focus on structure and layout rather than visual design or detail.
+
+- **Appearance:** Often black-and-white, with placeholders (like boxes and labels).
+- **Tools:** Paper sketches, whiteboards, Balsamiq.
+- **Purpose:** Quick ideation, early feedback, exploring layout ideas.
+- **Used when:** Brainstorming ideas, during early planning stages, or in team discussions.
+
+**Example:** A wireframe showing a box labeled "Logo", another for "Navigation", and a big rectangle for "Main Content."
+
+### 2. High-Fidelity Wireframes
+
+These are more polished and closely resemble the final product. They may include actual content, detailed UI elements, and interactive components.
+
+- **Appearance:** Clean, detailed, sometimes with real images, icons, or text.
+- **Tools:** Figma, Adobe XD, Sketch.
+- **Purpose:** Usability testing, stakeholder presentations, design handoffs to developers.
+- **Used when:** Finalizing design ideas or preparing for prototyping.
+
+**Example:** A detailed mobile app screen with proper buttons, form fields, icons, and spacing just like the final design.
+
+---
+
+## What Type of Wireframe Is This?
+
+> _This README currently includes **low-fidelity wireframe concepts**, as it focuses on structure and foundational ideas rather than polished visuals or interactivity._
+
+If a wireframe image or sketch is added later, use this section to explain whether it's low- or high-fidelity and why.
