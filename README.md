@@ -150,3 +150,38 @@ Testing wireframes with users can validate the product direction before investin
 ---
 
 Wireframing bridges the gap between design thinking and functional development, creating a more aligned and efficient workflow across teams.
+
+## Wireframing in Practice
+
+### Real-World Scenario: E-commerce Checkout Flow
+
+During the planning of an e-commerce platform, the UX team created wireframes for the checkout flow. The initial wireframe showed a single-page checkout with all form fields—shipping address, billing address, payment details, and order summary—on one long scrollable page.
+
+### Identified Usability Issues:
+- **Overwhelming layout:** Test users felt the page was cluttered and confusing.
+- **Abandonment risk:** The long form discouraged users from completing the purchase.
+- **Navigation difficulty:** Users had to scroll up and down to review information, increasing the chance of input errors.
+
+### How Wireframing Helped:
+Before any development began, the team tested the wireframe with stakeholders and potential users. Feedback clearly showed that the layout needed simplification.
+
+### Resolution:
+- The wireframe was revised to break the checkout process into **3 simpler steps**:
+  1. Shipping Information
+  2. Payment Details
+  3. Order Review
+- Navigation buttons ("Next", "Back") were added for clarity.
+- Progress indicators were added at the top of the page to show users where they were in the process.
+
+### Impact on Final Product:
+- **Reduced cart abandonment by 20%**
+- **Improved form completion rate**
+- **Faster implementation** due to well-defined design decisions before development
+
+---
+
+### Conclusion
+
+Wireframing played a vital role in identifying and solving usability problems early in the design process. By testing and improving the user flow before any code was written, the team ensured a smoother, more user-friendly experience.
+
+Wireframes help bridge the gap between ideas and implementation — enabling teams to create intuitive, accessible, and effective products.
