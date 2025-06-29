@@ -83,3 +83,32 @@ These are more polished and closely resemble the final product. They may include
 > _This README currently includes **low-fidelity wireframe concepts**, as it focuses on structure and foundational ideas rather than polished visuals or interactivity._
 
 If a wireframe image or sketch is added later, use this section to explain whether it's low- or high-fidelity and why.
+
+## Wireframing Tools
+
+There are many tools available for creating wireframes, each with its own strengths depending on the project stage and team preferences. Below are some of the most popular tools:
+
+- **Figma**
+- **Balsamiq**
+- **Sketch**
+- **Adobe XD**
+- **Wireframe.cc**
+- **Lucidchart**
+
+### Why Figma is Recommended
+
+Figma is one of the most powerful and widely used tools for wireframing and UI/UX design. It is browser-based, which makes collaboration easy and efficient.
+
+**Key Features of Figma:**
+- 🧑‍🤝‍🧑 **Real-time collaboration:** Multiple designers can work on the same file simultaneously.
+- 📁 **Cloud-based storage:** No need to download or sync files manually.
+- 🧩 **Reusable components:** Create and maintain design systems with ease.
+- 🛠️ **Design + Prototyping:** Wireframe, mockup, and prototype — all in one platform.
+- 🔁 **Version control:** Easily view and roll back changes.
+
+**Why it's useful for wireframing:**
+- Intuitive drag-and-drop interface
+- Quick layout design with grids and auto-layout
+- Ability to share live preview links with stakeholders and teammates
+
+Figma is ideal for both low-fidelity and high-fidelity wireframes, making it a versatile tool in any designer’s toolkit.
